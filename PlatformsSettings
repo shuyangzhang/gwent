@@ -1,0 +1,75 @@
+{
+  "categories": [
+    {
+      "category": "GENERAL",
+      "settings": [
+        {
+          "setting": "LOCALIZATION",
+          "options": [
+            "de-DE",
+            "en-US",
+            "fr-fr",
+            "pl-PL",
+            "pt-br",
+            "ru-RU",
+            "zh-cn"
+          ]
+        },
+        {
+          "setting": "VIBRATION"
+        }
+      ]
+    },
+    {
+      "category": "RESOLUTION",
+      "settings": [
+        {
+          "setting": "DISPLAY"
+        },
+        {
+          "setting": "RESOLUTION"
+        },
+        {
+          "setting": "FULLSCREEN"
+        },
+        {
+          "setting": "SCALE"
+        }
+      ]
+    },
+    {
+      "category": "GRAPHICS",
+      "settings": [
+        {
+          "setting": "GRAPHICS_QUALITY"
+        },
+        {
+          "setting": "VSYNC"
+        },
+        {
+          "setting": "ANTIALIASING"
+        }
+      ]
+    },
+    {
+      "category": "AUDIO",
+      "settings": [
+        {
+          "setting": "CLASSIC_MUSIC"
+        },
+        {
+          "setting": "MUTE"
+        },
+        {
+          "setting": "MUSIC"
+        },
+        {
+          "setting": "SFX"
+        },
+        {
+          "setting": "VOICE"
+        }
+      ]
+    }
+  ]
+}
